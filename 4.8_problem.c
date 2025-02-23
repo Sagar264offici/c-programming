@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Write a program to calculate the factorial of a given no. using for loop
+// Write a program to calculate the factorial of a given no. using while loop
 
 int main() {
     int i=1;
